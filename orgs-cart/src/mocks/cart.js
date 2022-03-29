@@ -30,7 +30,7 @@ export const cart = {
         image: broccoli,
       },
       {
-        name: "Paotato",
+        name: "Patato",
         image: potato,
       },
       {
